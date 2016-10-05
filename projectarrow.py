@@ -43,3 +43,10 @@ if c2==finish:
 			print "you lose"
 time_elapsed=time.time()-s_time
 print "time taken is"+str(time_elapsed)
+
+
+'''
+1. Mention the controls for the game.
+Ex. press d to move right.
+2. The program should exit after game is lost.
+'''
